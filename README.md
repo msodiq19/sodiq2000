@@ -23,8 +23,8 @@ A passionate software engineer (full stack) and computer science student.
 #### Education 🎓
 - I am currently pursuing my **Bachelor's in Computer Science**
 
-#### Tech Stack 🌱
-- I am currently learning **JavaScript** and also interested in **Web Development**.
+#### Tech Stack
+- I am currently a **Front-end Developer** with strong interest in **software developement processes**
 
 #### Goals 🎯
 - My Goal is to Contribute to as many **open source project** as possible.
